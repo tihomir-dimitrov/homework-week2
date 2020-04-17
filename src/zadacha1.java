@@ -8,7 +8,7 @@ public class zadacha1 {
             int b = 6;
             System.out.println("Периметъра на правоъгълника е: " + (2 * a + 2 * b));
             int c = 2;
-            int d = 2;
+            int d = 6;
             System.out.println("Лицето на правоъгълника е: " + (a * b));
         }
 }
